@@ -1,4 +1,4 @@
-### Save editor for the game Xenonauts
+### Save editor for the game Xenonauts with Community Edition mod
 
 Currently allows only to change the statistics of soldiers (both recruited and available for recruitment)  
 I don't provide the binaries at this time, the project can be easily built using Visual Studio  
